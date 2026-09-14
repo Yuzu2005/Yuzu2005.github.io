@@ -1,6 +1,3 @@
-William Hopton Portfolio
-First Project is
-
+layout: page
 title: "First Project"
-
 permalink: https://yuzu2005.github.io/FirstProject
