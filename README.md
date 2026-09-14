@@ -3,4 +3,4 @@ First Project is
 
 title: "First Project"
 
-permalink: /FirstProject
+permalink: https://yuzu2005.github.io/FirstProject
