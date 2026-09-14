@@ -1,4 +1,4 @@
-# William Hopton Portfolio
+William Hopton Portfolio
 First Project is
 
 title: "First Project"
