@@ -1,3 +1,3 @@
 layout: page
 title: "First Project"
-permalink: https://yuzu2005.github.io/FirstProject
+permalink: https://github.com/Yuzu2005/Yuzu2005.github.io/blob/main/ResearchProject
