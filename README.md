@@ -1,5 +1,4 @@
-This is my Portfolio of the work I have completed during University. I have just completed my final year in a Games Programming course at the University of Gloucestershire. I am well versed in Unity and Unreal Engine 5 development using C# and C++. My projects are on GitHub which I've linked below:
-Yuzu2005 
+
 
 
 You can also view my CV in the link below:
