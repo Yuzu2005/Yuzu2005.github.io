@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 title: William Hopton's homepage
 description: Here is a list of all the projects I have worked on.
+
+layout: page
+title: "First Project"
+permalink: https://yuzu2005.github.io/FirstProject
