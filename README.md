@@ -5,21 +5,15 @@ You can also view my CV in the link below:
 
 cv.docx 
 
-Pages:
+## Pages:
 
-#Level 4: Group Project
-
-#Level 4: Pinball Game
-
-#Level 5: Main Menu Creation
-
-#Level 5: Boids
-
-#Level 5: Help With Level 6 Group Project
-
-#Level 6: Final Year Group Project
-
-#Level 6: Independent Research Project
+# Level 4: Group Project
+# Level 4: Pinball Game
+# Level 5: Main Menu Creation
+# Level 5: Boids
+# Level 5: Help With Level 6 Group Project
+# Level 6: Final Year Group Project
+# Level 6: Independent Research Project
 
 #Level 4: Group Project
 
