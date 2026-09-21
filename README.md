@@ -19,7 +19,7 @@ During my first year I worked together in a team of 5 to make a top down shooter
 
 For this project I worked on a couple of mechanics mainly to do with the enemy AI.
 
--I worked partly on the spawner for enemies however I didn't make it randomly move around.
+*I worked partly on the spawner for enemies however I didn't make it randomly move around.
 
 -Pathfinding around the map and searching for the player.
 
@@ -33,7 +33,7 @@ For this project I worked on a couple of mechanics mainly to do with the enemy A
 
 ![ ](Images/Gif2Tank.gif)
 
-Tank code for movement
+##### Tank code for movement
 
 ![ ](Images/tankcodeone.jpg)
 
@@ -128,6 +128,15 @@ For this project I worked in a team to create a horror game rated Pegi 12. I was
 
 -Monster mechanics, like movement and chasing the player.
 
+
+##### Monster Logic
+
+![ ](Images/MonsterCode1.jpg)
+![ ](Images/MonsterCode2.jpg)
+![ ](Images/MonsterCode3.jpg)
+![ ](Images/MonsterCode4.jpg)
+![ ](Images/MonsterCode5.jpg)
+![ ](Images/MonsterCode6.jpg)
 
 -Player Movement, crouching to hide from monster
 
