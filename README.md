@@ -33,7 +33,7 @@ For this project I worked on a couple of mechanics mainly to do with the enemy A
 
 ![TANK GIF](https://github.com/Yuzu2005/Yuzu2005.github.io/blob/main/Images/Gif2Tank.gif)
 
-![(Tank movement code hehehe)](main/Images/tankcodeone.jpg)
+![(Tank movement code hehehe)](https://github.com/Yuzu2005/Yuzu2005.github.io/blob/main/Images/tankcodeone.jpg)
 
 ![(Tank movement code)](https://github.com/Yuzu2005/Yuzu2005.github.io/blob/main/Images/TankCodeTwo.jpg)
 
