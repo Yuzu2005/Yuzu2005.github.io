@@ -6,8 +6,6 @@ You can also view my CV in the link below:
 cv.docx 
 
 # Pages:
-
- Level 4: Group Project
 ## [Level 4: Group Project](#Group-Project-Pointer)
 ## [Level 4: Pinball Game](#Pinball-Project-Pointer)
 ## [Level 5: Main Menu Creation](#MainMenu-Project-Pointer)
