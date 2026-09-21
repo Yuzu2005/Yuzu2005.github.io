@@ -53,7 +53,7 @@ During this project I added:
 
 -Integration onto a mobile phone
 
-* Code for final barrier at the bottom of the screen.
+##### Code for final barrier at the bottom of the screen.
 
 ![ ](Images/tankcodeone.jpg)
 
