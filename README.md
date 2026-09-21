@@ -51,9 +51,11 @@ During this project I added:
 
 -Controls to use the paddles to hit the ball
 
-
 -Integration onto a mobile phone
 
+* Code for final barrier at the bottom of the screen.
+
+![ ](Images/tankcodeone.jpg)
 
 At the end of the project I had learnt a basic understanding on how games could be added onto a mobile platform.
 
