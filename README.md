@@ -1,9 +1,7 @@
 
 
 
-You can also view my CV in the link below:
-
-cv.docx 
+You can also view my CV in the link [here](https://onedrive.live.com/:w:/g/personal/a99cabd9fb130e17/IQBh1YdwsWm9QonTJTF_Ba8yATeuV23kOgJGlbUxX9ObdZQ?rtime=V7q_leEX30g&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy9hOTljYWJkOWZiMTMwZTE3L0lRQmgxWWR3c1dtOVFvblRKVEZfQmE4eUFUZXVWMjNrT2dKR2xiVXhYOU9iZFpR).
 
 # Pages:
 ## [Level 4: Group Project](#Group-Project-Pointer)
