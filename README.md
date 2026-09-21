@@ -7,15 +7,15 @@ cv.docx
 
 # Pages:
 
-## Level 4: Group Project
-## Level 4: Pinball Game
+# Level 4: Group Project
+# Level 4: Pinball Game
 ## Level 5: Main Menu Creation
 ## Level 5: Boids
 ## Level 5: Help With Level 6 Group Project
 ## Level 6: Final Year Group Project
 ## Level 6: Independent Research Project
 
-### Level 4: Group Project
+## Level 4: Group Project
 
 During my first year I worked together in a team of 5 to make a top down shooter game. I was one of two programmers and was in charge of creating the enemies. If you wish to play the game then follow the link via the home page.
 
@@ -37,7 +37,7 @@ For this project I worked on a couple of mechanics mainly to do with the enemy A
 After finishing the project I felt I had learnt a lot about working in a team as well as how to implement enemies and animations into a game. However, during the project I couldn't figure out why the enemies kept getting stuck on corners. Though now I believe that could easily be fixed by sampling the position of the navmesh.
 
 
-### Level 4: Pinball Game
+## Level 4: Pinball Game
 For this game I was tasked with making a pinball game for mobile phones. In the end I created it so you could use buttons to hit the ball. I also got it to work for mobile by testing it on university supplied phones. Below is a video showcasing what I did.
 
 
