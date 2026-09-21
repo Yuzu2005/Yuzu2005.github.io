@@ -27,15 +27,15 @@ For this project I worked on a couple of mechanics mainly to do with the enemy A
 
 -Created shooter enemies which shot bullets at the players
 
-![](https://github.com/Yuzu2005/Yuzu2005.github.io/blob/main/Images/Gif1Soldiers.gif)
+![ ](Images/Gif1Soldiers.gif)
 
 -Created a tank which shot giant bullets that added a force to where they hit. This was also the boss of the game.
 
-![TANK GIF](https://github.com/Yuzu2005/Yuzu2005.github.io/blob/main/Images/Gif2Tank.gif)
+![TANK GIF](Images/Gif2Tank.gif)
 
-![(Tank movement code hehehe)](https://github.com/Yuzu2005/Yuzu2005.github.io/blob/main/Images/tankcodeone.jpg)
+![(Tank code for movement)](Images/tankcodeone.jpg)
 
-![(Tank movement code)](https://github.com/Yuzu2005/Yuzu2005.github.io/blob/main/Images/TankCodeTwo.jpg)
+![( )](Images/TankCodeTwo.jpg)
 
 After finishing the project I felt I had learnt a lot about working in a team as well as how to implement enemies and animations into a game. However, during the project I couldn't figure out why the enemies kept getting stuck on corners. Though now I believe that could easily be fixed by sampling the position of the navmesh.
 
