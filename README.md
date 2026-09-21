@@ -8,7 +8,7 @@ cv.docx
 # Pages:
 
  Level 4: Group Project
-## [Level 4: Group Project](##Group-ProjectPoint)
+## [Level 4: Group Project](#Group-Project-Pointer)
 ## Level 4: Pinball Game
 ## Level 5: Main Menu Creation
 ## Level 5: Boids
