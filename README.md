@@ -148,6 +148,14 @@ For this assignment I chose to research about customisation in fighting games. I
 -A skill tree, which increased the players stats as well as give two new abilitys that were invisibility and magic
 
 
+Fireball logic
+
+![ ](Images/FireballLogic.jpg)
+
+PunchCheck logic
+
+![ ](Images/PunchCheckLogic.jpg)
+
 -Customisable parts
 
 
