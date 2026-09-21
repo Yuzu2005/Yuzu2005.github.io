@@ -9,12 +9,12 @@ cv.docx
 
  Level 4: Group Project
 ## [Level 4: Group Project](#Group-Project-Pointer)
-## Level 4: Pinball Game
-## Level 5: Main Menu Creation
-## Level 5: Boids
-## Level 5: Help With Level 6 Group Project
-## Level 6: Final Year Group Project
-## Level 6: Independent Research Project
+## [Level 4: Pinball Game](#Pinball-Project-Pointer)
+## [Level 5: Main Menu Creation](#MainMenu-Project-Pointer)
+## [Level 5: Boids](#Boids-Project-Pointer)
+## [Level 5: Help With Level 6 Group Project](#Help-With-Level-6-Group-Project-Pointer)
+## [Level 6: Final Year Group Project](#Final-Year-Group-Project-Pointer)
+## [Level 6: Independent Research Project](#Independent-Research-Project-Pointer)
 
 ### Level 4: Group Project
 <a name="Group-Project-Pointer"></a>
@@ -39,6 +39,7 @@ After finishing the project I felt I had learnt a lot about working in a team as
 
 
 ### Level 4: Pinball Game
+<a name="Pinball-Project-Pointer"></a>
 For this game I was tasked with making a pinball game for mobile phones. In the end I created it so you could use buttons to hit the ball. I also got it to work for mobile by testing it on university supplied phones. Below is a video showcasing what I did.
 
 
@@ -52,7 +53,8 @@ During this project I added:
 
 At the end of the project I had learnt a basic understanding on how games could be added onto a mobile platform.
 
-Level 5: Main Menu Creation
+### Level 5: Main Menu Creation
+<a name="MainMenu-Project-Pointer"></a>
 For this project I created a Main Menu system that would have local multiplayer implemented in unreal engine 5. The video below shows what I made.
 
 
@@ -70,6 +72,7 @@ For this project I made:
 Afterwards, I feel like I know more about how to use C++ with unreal as well as how to create a multiplayer system. I also created a small animation for pulling the phone up when needing to look at the menu. To make the game more immersive I did some research and found out how to add widgets in the game instead of just on the viewport. If I were to do this again I would have wished to add more to the C++ as I thought there wasn't enough to it in the game.
 
 ### Level 5: Boids
+<a name="Boids-Project-Pointer"></a>
 For this project I made flocking behaviours in unreal engine 5. Below shows a demonstration of how it works.
 
 
@@ -92,7 +95,8 @@ For the main mechanics I made behaviours such as:
 
 Now after the project is finished I feel I understand much more about how to use C++ with unreal engine as well as understanding the basics to flocking behaviours. Though I do feel if I had more time I have tried to add a bounds volume to stop the Boids wandering too far off.
 
-Level 5: Help With Level 6 Group Project
+### Level 5: Help With Level 6 Group Project
+<a name="Help-With-Level-6-Group-Project-Pointer"></a>
 For this project I worked with the year above to help create their game.
 The main mechanics I created included:
 
@@ -113,6 +117,7 @@ The enemies also all had different functions such as patrolling and functions to
 After finishing the project I feel I know a lot more to do with the UI side of unity. I also feel like the project taught me more on AI as before in the first group project I did the enemies were very basic. Now after creating enemies for this game I have learnt how to make the enemies behave more efficiently.
 
 ### Level 6: Final Year Group Project
+<a name="Final-Year-Group-Project-Pointer"></a>
 For this project I worked in a team to create a horror game rated Pegi 12. I was the lead programmer and was in charge of creating most of the mechanics for the game. This mainly included:
 
 -Monster mechanics, like movement and chasing the player.
@@ -131,6 +136,7 @@ For this project I worked in a team to create a horror game rated Pegi 12. I was
 In the end of the project I believe I have improved and learnt how to communicate effectivly as well as work within a team. I also developed my skills in producing an AI agent and experimented with how it would hear sound. Finally, I learnt more about the animator, its references and how to link up an animation with a quick time event.
 
 ### Level 6: Independent Research Project
+<a name="Independent-Research-Project-Pointer"></a>
 For this assignment I chose to research about customisation in fighting games. I was tasked in creating a research document and then producing a project that fit with my research. The final product included:
 
 -A skill tree, which increased the players stats as well as give two new abilitys that were invisibility and magic
