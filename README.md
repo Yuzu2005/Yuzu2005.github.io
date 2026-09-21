@@ -26,7 +26,7 @@ For this project I worked on a couple of mechanics mainly to do with the enemy A
 -Created melee enemies which ran at the player and did damage when close up
 
 -Created shooter enemies which shot bullets at the players
-![-Created shooter enemies which shot bullets at the players](https://github.com/Yuzu2005/Yuzu2005.github.io/blob/main/Images/Gif1Soldiers.gif)
+![](https://github.com/Yuzu2005/Yuzu2005.github.io/blob/main/Images/Gif1Soldiers.gif)
 
 -Created a tank which shot giant bullets that added a force to where they hit. This was also the boss of the game.
 
