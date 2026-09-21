@@ -55,7 +55,7 @@ During this project I added:
 
 ##### Code for final barrier at the bottom of the screen.
 
-![ ](Images/tankcodeone.jpg)
+![ ](Images/FinalGuardPinball.jpg)
 
 At the end of the project I had learnt a basic understanding on how games could be added onto a mobile platform.
 
