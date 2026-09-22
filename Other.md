@@ -1,1 +1,5 @@
-# other page
+---
+/404.html
+---
+
+other page
